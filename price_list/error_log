@@ -1,0 +1,124 @@
+[07-Mar-2019 22:16:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[07-Mar-2019 22:16:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[07-Mar-2019 22:16:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 44
+[07-Mar-2019 22:16:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:01 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:01 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 44
+[07-Mar-2019 22:16:01 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:03 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:03 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 44
+[07-Mar-2019 22:16:03 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:03 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[07-Mar-2019 22:16:03 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[07-Mar-2019 22:16:03 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 44
+[07-Mar-2019 22:16:03 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:03 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:03 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 44
+[07-Mar-2019 22:16:03 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:16 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[07-Mar-2019 22:16:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[07-Mar-2019 22:16:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:24 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[07-Mar-2019 22:16:24 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[07-Mar-2019 22:16:24 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:25 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:25 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[07-Mar-2019 22:16:25 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[07-Mar-2019 22:16:25 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:25 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:25 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:26 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:27 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:27 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[07-Mar-2019 22:16:27 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[07-Mar-2019 22:16:27 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:27 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:29 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[07-Mar-2019 22:16:29 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[07-Mar-2019 22:16:29 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[07-Mar-2019 22:16:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[07-Mar-2019 22:16:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[07-Mar-2019 22:16:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[07-Mar-2019 22:16:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:20 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:20 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 44
+[13-Mar-2019 02:17:20 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[13-Mar-2019 02:17:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[13-Mar-2019 02:17:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 44
+[13-Mar-2019 02:17:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:21 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:21 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 44
+[13-Mar-2019 02:17:21 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[13-Mar-2019 02:17:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[13-Mar-2019 02:17:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 44
+[13-Mar-2019 02:17:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:21 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:21 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 44
+[13-Mar-2019 02:17:21 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:30 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:35 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[13-Mar-2019 02:17:35 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[13-Mar-2019 02:17:35 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[13-Mar-2019 02:17:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[13-Mar-2019 02:17:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:37 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[13-Mar-2019 02:17:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[13-Mar-2019 02:17:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:38 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:39 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:39 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[13-Mar-2019 02:17:39 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[13-Mar-2019 02:17:39 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:39 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:39 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[13-Mar-2019 02:17:39 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[13-Mar-2019 02:17:39 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
+[13-Mar-2019 02:17:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/price_list/index.php on line 22
+[13-Mar-2019 02:17:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/storyfqi/public_html/test/price_list/index.php on line 72
+[13-Mar-2019 02:17:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 36
+[13-Mar-2019 02:17:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/storyfqi/public_html/test/lib/pagination.php on line 54
